@@ -6,10 +6,11 @@ Geschrieben in **Jupyer-Notebooks**.<br>
 <br>
 Aufwand in Wochen (soll als Richtwert für zukünftige Studierende gelten):<br> 
 
- Woche | Aufwand | Thema
------------- | ------------- | -------------
-SW 01 | 6h | Kap 2
-SW 02 | 7h 30min | series01, Kap 3.1
-SW 03 | 16h | series02, Kap3.2, 3.3
+ Woche | Aufwand | Thema (IST) | Thema (SOLL)
+------------ | ------------- | ------------- | -------------
+SW 01 | 6h | Kap 2 | Kap 2
+SW 02 | 7h 30min | series01, Kap 3.1 | series01, series02, Kap 3.1, 3.2
+SW 03 | 16h | series02, Kap 3.2, 3.3 | series03, Kap 3.3, 3.4
+SW 04 | XXh |  | series04
 
 >P.S.: Niemmer het gseit asi es Math-Genie bi ;)
