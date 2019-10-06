@@ -12,4 +12,4 @@ SW 01 | 6h | Kap 2
 SW 02 | 7h 30min | series01, Kap 3.1
 SW 03 | 16h | series02, Kap3.2, 3.3
 
->P.S.: Niemand hat gesagt ich bin ein Mathe-Genie ;)
+>P.S.: Niemmer het gseit asi es Math-Genie bi ;)
