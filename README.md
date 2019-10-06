@@ -4,7 +4,7 @@ Geschrieben in **Jupyer-Notebooks**.<br>
 <br>
 > "3 Credit-Modul heissi gseit", Ufwand für 6 het aber niemmer erwähnt.
 <br>
-Aufwand in Wochen *(soll als Richtwert für zukünftige Studierende gelten)*:<br> 
+Aufwand in Wochen (soll als Richtwert für zukünftige Studierende gelten):<br> 
 
  Woche | Aufwand | Thema
 ------------ | ------------- | -------------
