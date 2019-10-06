@@ -4,9 +4,12 @@ Geschrieben in **Jupyer-Notebooks**.<br>
 <br>
 > "3 Credit-Modul heissi gseit", Ufwand für 6 het aber niemmer erwähnt.
 <br>
-Aufwand in Wochen *(soll als Richtwert für zukünftige Studierende gelten)*:
-| Woche   |      Aufwand (gerundet)      |  Themen |
-|----------|:-------------:|------:|
-| SW 01 | 6h | Kap. 2 |
-| SW 02 | 7h 30m | series01, Kap 3.1 |
-| SW 03 | 16h | series02, Kap 3.2, 3.3 |
+Aufwand in Wochen *(soll als Richtwert für zukünftige Studierende gelten)*:<br> 
+
+ Woche | Aufwand | Thema
+------------ | ------------- | -------------
+SW 01 | 6h | Kap 2
+SW 02 | 7h 30min | series01, Kap 3.1
+SW 03 | 16h | series02, Kap3.2, 3.3
+
+>P.S.: Niemand hat gesagt ich bin ein Mathe-Genie ;)
