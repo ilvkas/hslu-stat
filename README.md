@@ -11,6 +11,6 @@ Aufwand in Wochen (soll als Richtwert für zukünftige Studierende gelten):<br>
 SW 01 | 6h | Kap 2 | Kap 2
 SW 02 | 7h 30min | series01, Kap 3.1 | series01, series02, Kap 3.1, 3.2
 SW 03 | 16h | series02, Kap 3.2, 3.3 (Teil 1) | series03, Kap 3.3, 3.4
-SW 04 | XXh |  | series04
+SW 04 | 14h 30min | Rep. Kap3.1, 3.2, series03  | series04
 
 >P.S.: Niemmer het gseit asi es Math-Genie bi ;)
