@@ -2,4 +2,6 @@
 Python-Code für Theorie und Übungen zum Modul *Statistics for Data Science*.<br>
 Geschrieben in **Jupyter-Notebooks** (Anaconda).<br>
 <br>
-> "3 Credit-Modul heissi gseit", Ufwand für 6 het aber niemmer erwähnt.
+| Datum | Änderung |        
+| ---------: | :----------- | 
+| 27_03_2020 | Update Readme, Uploaded all files, complete(!)|
